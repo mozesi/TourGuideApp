@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="service_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="place_image">Place image</string>
+    <string-array name="beach_names">
+        <item>Weluzgi Beach</item>
+        <item>kujikhozga Beach</item>
+        <item>kukolelezgana Beach</item>
+        <item>nkhalo Beach</item>
+        <item>kukhwimiskana Beach</item>
+        <item>kusambizgana Beach</item>
+        <item>kuchenna Beach</item>
+        <item>kulindilila Beach</item>
+        <item>kuda Beach</item>
+        <item>kuwecha Beach</item>
+    </string-array>
+    <string-array name="restaurants_names">
+        <item>Five Star Bite</item>
+        <item>Kips</item>
+        <item>Steerz</item>
+        <item>Big Bite</item>
+        <item>Fresh Meal</item>
+        <item>Chongo\'z Bites</item>
+        <item>Have Some more Take away</item>
+        <item>The Fresh Corner</item>
+        <item>Town Talk meals</item>
+        <item>John\'s Meals</item>
+        <item>Town meals</item>
+        <item>Daily Meals</item>
+    </string-array>
+    <string-array name="hotel_names">
+        <item>SunBird</item>
+        <item>Mzuzu Hotel</item>
+        <item>Kufa</item>
+        <item>Kaning\'ina Hotel</item>
+        <item>Mzoo zoo</item>
+        <item>Country Hotel</item>
+        <item>Chibanja</item>
+        <item>De Gadge</item>
+        <item>Town Talk Hotel</item>
+        <item>Grand Palace</item>
+        <item>Hotella</item>
+        <item>Chenda</item>
+    </string-array>
+    <string-array name="game_names">
+        <item>Nyika</item>
+        <item>Vyaza</item>
+        <item>Kaning\'ina</item>
+        <item>Kaning\'ina</item>
+        <item>MyZoo</item>
+        <item>Lake Malawi</item>
+        <item>Chikwina</item>
+        <item>Kavuzi</item>
+        <item>Engutwini</item>
+    </string-array>
+    <string-array name="location_names">
+        <item>Mzuzu</item>
+        <item>Nkhata Bay</item>
+        <item>Mzimba</item>
+        <item>Karonga</item>
+        <item>Chitipa</item>
+        <item>Rumphi</item>
+    </string-array>
+
+</resources>
